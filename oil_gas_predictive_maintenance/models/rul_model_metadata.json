@@ -1,0 +1,10 @@
+{
+  "selected_model": "Gradient Boosting Regressor",
+  "target": "Remaining_Useful_Life",
+  "metrics": {
+    "Model": "Gradient Boosting Regressor",
+    "MAE": 37.19,
+    "RMSE": 45.43,
+    "R2": 0.4625
+  }
+}

@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Gradient Boosting Regressor,37.19,45.43,0.4625
+XGBoost Regressor,37.65,45.99,0.4493
+Random Forest Regressor,37.78,46.2,0.4442
